@@ -13,10 +13,12 @@ A “chat-bot” style page that allows a user to answer questions in the form o
 **I want to** have a chat-bot that allows us to ask the user a set of questions
 
 **So that** users can easily provide the information required to continue with the journey.
+
 **Non-Functional Requirements:** (User Interface)
 Can I...
 1. See a “Typing” indicator (3 dots) for 1 second before each message is received
 2. See a confirmation message that the chat-bot has received my reply
+
 **Functional Requirements:**
 Can I...
 1. Use the page on Desktop and Mobile
