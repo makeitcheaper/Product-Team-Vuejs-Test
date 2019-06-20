@@ -6,7 +6,9 @@ https://projects.invisionapp.com/prototype/Make-It-Cheaper-Front-end-Coding-Test
 
 ## Requirements
 **Feature/Story Description:**
+
 A “chat-bot” style page that allows a user to answer questions in the form of a messaging conversation.
+
 
 **As a** Product Manager
 
@@ -14,10 +16,12 @@ A “chat-bot” style page that allows a user to answer questions in the form o
 
 **So that** users can easily provide the information required to continue with the journey.
 
+
 **Non-Functional Requirements:** (User Interface)
 Can I...
 1. See a “Typing” indicator (3 dots) for 1 second before each message is received
 2. See a confirmation message that the chat-bot has received my reply
+
 
 **Functional Requirements:**
 Can I...
