@@ -8,26 +8,10 @@
 
 export default {
   name: 'app',
+
   data() {
     return {
-      conversation: [
-        {
-          sender: 'bot',
-          text: "Hello! Please choose from one of the options below:"
-        },
-        {
-          sender: 'user',
-          options: [
-            'Option A',
-            'Option B',
-            'Option C'
-          ]
-        },
-        {
-          sender: 'bot',
-          text: "Option A? Great choice!"
-        },
-      ]
+      
     }
   }
 }
