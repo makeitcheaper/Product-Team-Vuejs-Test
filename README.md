@@ -2,7 +2,8 @@
 
 Thanks for taking the time to do the test!
 
-There's a link to an Invision design file. You may need to set up a free Invision account to be able to use the inspect features.
+You will need an invision account for this. If you don't have one you can get a free one at:
+https://projects.invisionapp.com/d/signup
 
 It should take somewhere between 1 and 2 hours to complete the test. While working on it, it would be great if you could make regular git commits so we can see how you progressed during the build.
 
@@ -30,7 +31,7 @@ A “chat-bot” style page that allows a user to answer questions in the form o
 Can I...
 
 1. See a “Typing” indicator (3 dots) for 1 second before each message is received
-2. See a confirmation message that the chat-bot has received my reply
+2. See a message that shows that the chat-bot has received my reply
 
 **Functional Requirements:**
 Can I...
